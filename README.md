@@ -1,12 +1,12 @@
-#install postgres and pgadmin (Db related)
-#install nodejs 
+# install postgres and pgadmin (Db related)
+# install nodejs 
 
-#to install express pg 
+# to install express pg 
 npm i express pg
 
-#to run
+# to run
 node index.js
 
 some urls
- #http://localhost:3000/users 
- #http://localhost:3000/users/1,
+ # http://localhost:3000/users 
+ # http://localhost:3000/users/1,
